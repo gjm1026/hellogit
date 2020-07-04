@@ -11,3 +11,8 @@ function minus(a,b)
 	console.log("minus result :" +ret)
 	return ret
 }
+
+function multiple(a,b)
+{
+	return a*b;
+}
