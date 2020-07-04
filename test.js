@@ -9,6 +9,9 @@ function minus(a,b)
 {
 	var ret = a-b
 	console.log("minus result :" +ret)
+	console.log("minus result :" +ret)
+	console.log("minus result :" +ret)
+	console.log("minus result :" +ret)
 	return ret
 }
 
