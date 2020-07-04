@@ -16,3 +16,10 @@ function multiple(a,b)
 {
 	return a*b;
 }
+
+function div(a,v)
+{
+	var ret=a/b
+	console.log("div result:" + ret)
+	return ret
+}
